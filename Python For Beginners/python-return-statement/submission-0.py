@@ -1,0 +1,17 @@
+def product(x, y):
+    return x * y
+
+result = product(2,4)
+
+result = product(8,2)
+
+result = product(4,8)
+
+result = product(8,8)
+
+
+# don't modify below this line
+print(product(2, 4))
+print(product(8, 2))
+print(product(4, 8))
+print(product(8, 8))
